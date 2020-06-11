@@ -3634,3 +3634,11 @@ function Shuffle(o) {
   );
   return o;
 }
+
+{ 
+  artName: "AnimaMegatron",
+  pageLink: "./Art/AnimaMegatron/index.html",
+  // imageLink: "./Art/AnimaMegatron/.gif",
+  author: "George",
+  githubLink: "https://github.com/GeorgiyPikulin"
+};
